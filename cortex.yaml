@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-basilisk
+  x-cortex-tag: monster-basilisk
+  x-cortex-custom-metadata:
+    alignment: chaotic-evil
+    type: aberration
+    challenge_rating: 2
+    legendary: false
+    armor_class: 10
+    hit_points: 168
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-basilisk
+      alias: github-token-test
